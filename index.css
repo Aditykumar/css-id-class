@@ -1,0 +1,46 @@
+h1{
+    color: darkred;
+}
+h3{
+    color: red;
+    font-style: italic;
+}
+li.a{
+    color: brown;
+}
+
+li.b{
+    color: brown;
+    letter-spacing: 5px;
+}
+.c{
+    font-weight: bold;
+    text-decoration: line-through;
+}
+.d{
+    font-weight: bold;
+    background-color: yellow;
+}
+.e{
+    text-decoration: underline;
+    color: brown;
+}
+.f{
+    font-weight: bold;
+    background-color: yellow;
+}
+#a1{
+    color: rgb(134, 81, 60);
+}
+#a2{
+    color: rgb(134, 81, 60); 
+}
+.anchor{
+    text-decoration: none;
+    color: red;
+    background-color: yellow;
+    font-style: italic;
+}
+.image{
+    margin-left: 40%;
+ 
